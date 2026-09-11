@@ -76,6 +76,8 @@ ev-telemetry-monitor/
 - 94% code coverage on all source files
 - 100% coverage on database.py and simulator.py
 - Processes 200 telemetry readings across 5 stations in under 1 second
+- <img width="692" height="513" alt="Screenshot 2026-09-10 054600" src="https://github.com/user-attachments/assets/fc0c4b5a-adf0-4048-85da-98bf93bb866a" />
+
 
 ---
 
